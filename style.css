@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: pink;
+    background-image: url(../images/images.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed;
+}
+body{
+    background-color: pink;
+}
+.container{
+    background-color:skyblue;
+    text-align: center;
+
+}
+.content nav ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    padding: 10px;
+    gap: 40px;
+    font-size: 20px;
+  
+
+}
+.content nav ul a{
+    color:black;
+    text-decoration: none;
+
+}
+p{
+    width: 600px;
+    height: auto;
+    /* border: 2px solid red; */
+    border-radius: 30px;
+    text-align: justify;
+   margin: auto;
+   margin-top: 10%;
+   color: white;
+   font-size: 20px;
+   overflow: hidden;
+   background-color: rgb(170, 156, 159);
+   box-shadow: 2px 2px 2px rgb(149, 124, 124);
+   padding: 20px;
+}
+.form1{
+    width: 600px;
+    height: auto;
+    margin: auto;
+    padding-top: 40px;
+    line-height: 50px;
+    text-align: justify;
+    border: 3px solid green;
+    padding: 30px;
+    background: skyblue;
+    
+    /* margin: 40px; */
+}
+.form label{
+    align-items:center;
+    text-align: justify;
+    
+}
+.form label{
+    font-size: 12px;
+}
+
+.pho1{
+    margin-left: 16px;
+}
+.pho2{
+    margin-left: 20px;
+}
+.pho3{
+    margin-left: 20px;
+}
+.pho4{
+    margin-left: 30px;
+}
+button{
+    width: 85%;
+    padding-left:20%;
+    margin-left:16%;
+    text-align: center;
+   color: white;
+   text-decoration: none;
+   outline: none;
+    background-color: blue;
+font-size: 20px;
+border-radius: 30px;
+
+}
+button:hover{
+    background-color: red;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
